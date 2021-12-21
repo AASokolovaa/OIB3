@@ -1,0 +1,1 @@
+Cryptography is the science of ways and methods of encrypting information. It protects the transmitted messages and uses algorithms tested in open environments that allow you to quickly detect and eliminate any vulnerabilit
