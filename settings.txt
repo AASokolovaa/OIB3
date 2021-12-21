@@ -1,0 +1,12 @@
+# python main.py -gen generation
+# python main.py -enc encryption
+# python main.py -dec decryption
+
+#C:\Users\668\PycharmProjects\ОИБ№3
+#C:\Users\668\PycharmProjects\ОИБ№3\test_oib.txt
+# C:\Users\668\PycharmProjects\ОИБ№3\private.pem
+# C:\Users\668\PycharmProjects\ОИБ№3\encrypted_sym.txt
+# C:\Users\668\PycharmProjects\ОИБ№3\e_test_oib.txt
+# C:\Users\668\PycharmProjects\ОИБ№3\e_test_oib.txt
+# C:\Users\668\PycharmProjects\ОИБ№3\encrypted_sym.txt
+# C:\Users\668\PycharmProjects\ОИБ№3\d_test_oib.txt
